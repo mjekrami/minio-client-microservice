@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+bin/*
+lib/*
+pyvenv.cfg
+*dev*
+docker-compose.yaml
+**/__pycache__/**
